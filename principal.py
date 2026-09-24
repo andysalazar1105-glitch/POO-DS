@@ -6,7 +6,7 @@ from facultad import Decano, Secretaria, Profesor
 estudiante1 = Estudiante("Ana", "López", 85)
 estudiante2 = Estudiante("Carlos", "Pérez", 58)
 estudiante3 = Estudiante("María", "Gómez", 92)
-estudiante4 = Estudiante("Didier", "Salazar", 75)
+|estudiante4 = Estudiante("Didier", "Salazar", 75)
 
 # Guardar los objetos en una lista
 estudiantes = [
